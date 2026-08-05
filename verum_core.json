@@ -1,13 +1,22 @@
 {
-  "version": "1.0.2",
-  "name": "Test release",
+  "version": "1.0.21",
+  "name": "Hotfix",
   "url": "https://portal.cfx.re/assets/granted-assets",
   "changes": [
-    "Test change 1",
-    "Test change 2",
-    "Idk"
+    "Idk",
+    "I fixed nothing",
+    "Lol"
   ],
   "changelog": [
+    {
+      "version": "1.0.21",
+      "name": "Hotfix",
+      "changes": [
+        "Idk",
+        "I fixed nothing",
+        "Lol"
+      ]
+    },
     {
       "version": "1.0.2",
       "name": "Test release",
