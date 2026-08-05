@@ -2,7 +2,7 @@
     "version": "1.0.1",
     "name": "verum_core v1.0.1",
     "url": "https://github.com/NotMoonboy/verum",
-    "changes": ["Test release"],
+    "changes": ["Fixed paycheck bug"],
     "changelog": [
         {
             "version": "1.0.1",
