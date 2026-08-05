@@ -1,18 +1,35 @@
 {
-    "version": "1.0.1",
-    "name": "verum_core v1.0.1",
-    "url": "https://github.com/NotMoonboy/verum",
-    "changes": ["Fixed paycheck bug"],
-    "changelog": [
-        {
-            "version": "1.0.1",
-            "name": "Hotfix",
-            "changes": ["Fixed paycheck bug"]
-        },
-        {
-            "version": "1.0.0",
-            "name": "Initial release",
-            "changes": ["Initial public release"]
-        }
-    ]
+  "version": "1.0.2",
+  "name": "Test release",
+  "url": "https://portal.cfx.re/assets/granted-assets",
+  "changes": [
+    "Test change 1",
+    "Test change 2",
+    "Idk"
+  ],
+  "changelog": [
+    {
+      "version": "1.0.2",
+      "name": "Test release",
+      "changes": [
+        "Test change 1",
+        "Test change 2",
+        "Idk"
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "name": "Hotfix",
+      "changes": [
+        "Fixed paycheck bug"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "name": "Initial release",
+      "changes": [
+        "Initial public release"
+      ]
+    }
+  ]
 }
