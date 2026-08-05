@@ -1,6 +1,6 @@
 {
   "version": "1.0.21",
-  "name": "Hotfix 2",
+  "name": "Hotfix",
   "url": "https://portal.cfx.re/assets/granted-assets",
   "changes": [
     "Sigma"
@@ -8,7 +8,7 @@
   "changelog": [
     {
       "version": "1.0.21",
-      "name": "Hotfix 2",
+      "name": "Hotfix",
       "changes": [
         "Sigma"
       ]
