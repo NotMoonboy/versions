@@ -1,11 +1,32 @@
 {
-  "version": "1.0.21",
-  "name": "Hotfix",
-  "url": "https://portal.cfx.re/assets/granted-assets",
+  "version": "1.0.22",
+  "name": "Test fix",
+  "url": "https://github.com/NotMoonboy/verum/tree/main/resources/%5Bverum%5D/verum_core",
   "changes": [
-    "Sigma"
+    "Added streamer mode",
+    "Added custom name/callsign formatting in member list",
+    "Fixed issues with removing recent/favorite channels",
+    "Fixed translation for channel without name",
+    "Added command for changing the callsign",
+    "Added export `UpdateSetting`",
+    "Fixed issues with playerDropped event/sync",
+    "Fixed misc issues related to refactoring done in last update"
   ],
   "changelog": [
+    {
+      "version": "1.0.22",
+      "name": "Test fix",
+      "changes": [
+        "Added streamer mode",
+        "Added custom name/callsign formatting in member list",
+        "Fixed issues with removing recent/favorite channels",
+        "Fixed translation for channel without name",
+        "Added command for changing the callsign",
+        "Added export `UpdateSetting`",
+        "Fixed issues with playerDropped event/sync",
+        "Fixed misc issues related to refactoring done in last update"
+      ]
+    },
     {
       "version": "1.0.21",
       "name": "Hotfix",
