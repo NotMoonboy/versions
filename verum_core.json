@@ -1,6 +1,6 @@
 {
   "version": "1.0.23",
-  "name": "Nez test fix",
+  "name": "Nez test fix2",
   "url": "https://portal.cfx.re/assets/granted-assets",
   "changes": [
     "Nez test",
@@ -16,7 +16,7 @@
   "changelog": [
     {
       "version": "1.0.23",
-      "name": "Nez test fix",
+      "name": "Nez test fix2",
       "changes": [
         "Nez test",
         "Added streamer mode",
