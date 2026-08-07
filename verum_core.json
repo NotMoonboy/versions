@@ -1,71 +1,11 @@
 {
-  "version": "1.0.23",
-  "name": "Nez test fix2",
+  "version": "1.0.0",
+  "name": "Verum Core",
   "url": "https://portal.cfx.re/assets/granted-assets",
   "changes": [
-    "Nez test",
-    "Added streamer mode",
-    "Added custom name/callsign formatting in member list",
-    "Fixed issues with removing recent/favorite channels",
-    "Fixed translation for channel without name",
-    "Added command for changing the callsign",
-    "Added export UpdateSetting",
-    "Fixed issues with playerDropped event/sync",
-    "Fixed misc issues related to refactoring done in last update"
+    "Initial public release"
   ],
   "changelog": [
-    {
-      "version": "1.0.23",
-      "name": "Nez test fix2",
-      "changes": [
-        "Nez test",
-        "Added streamer mode",
-        "Added custom name/callsign formatting in member list",
-        "Fixed issues with removing recent/favorite channels",
-        "Fixed translation for channel without name",
-        "Added command for changing the callsign",
-        "Added export UpdateSetting",
-        "Fixed issues with playerDropped event/sync",
-        "Fixed misc issues related to refactoring done in last update"
-      ]
-    },
-    {
-      "version": "1.0.22",
-      "name": "Test fix",
-      "changes": [
-        "Added streamer mode",
-        "Added custom name/callsign formatting in member list",
-        "Fixed issues with removing recent/favorite channels",
-        "Fixed translation for channel without name",
-        "Added command for changing the callsign",
-        "Added export `UpdateSetting`",
-        "Fixed issues with playerDropped event/sync",
-        "Fixed misc issues related to refactoring done in last update"
-      ]
-    },
-    {
-      "version": "1.0.21",
-      "name": "Hotfix",
-      "changes": [
-        "Sigma"
-      ]
-    },
-    {
-      "version": "1.0.2",
-      "name": "Test release",
-      "changes": [
-        "Test change 1",
-        "Test change 2",
-        "Idk"
-      ]
-    },
-    {
-      "version": "1.0.1",
-      "name": "Hotfix",
-      "changes": [
-        "Fixed paycheck bug"
-      ]
-    },
     {
       "version": "1.0.0",
       "name": "Initial release",
